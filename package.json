@@ -1,0 +1,21 @@
+{
+  "name": "6.2-mongo",
+  "version": "1.0.0",
+  "description": "MongoDB demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "dietz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4",
+    "nodemon": "^1.11.0",
+    "supertest": "^3.0.0"
+  }
+}
